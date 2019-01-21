@@ -1,4 +1,7 @@
-# roger_skyline_1
+# roger_skyline_1.
+#creat a user .....
+    -https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-centos-quickstart
+
 #configure static ip & disable DHCP
     - https://websiteforstudents.com/configure-static-ip-addresses-on-ubuntu-18-04-beta/
 
@@ -11,7 +14,7 @@
     - UFW is set to deny all incoming connections and allow all outgoing connections.
       This means anyone trying to reach your server would not be able to connect,
       while any application within the server would be able to reach the outside world
-
+    - https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands 
 
 #fail2ban & DOS
    -How To: Stop Apache DOS attacks with Fail2Ban
